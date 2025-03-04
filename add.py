@@ -7,3 +7,8 @@ def sub(a,b):
     print("the diff of the numbers is : ",a-b)
 
 sub(5,3)
+
+def multiply(a,b):
+    print("the product of the numbers is : ",a*b)
+
+multiply(3,2)
